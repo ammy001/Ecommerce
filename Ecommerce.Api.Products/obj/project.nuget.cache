@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GMjhBVcXDfP/UW5eWZxJj4n1viqaYkqQEa1XOnBOEW2rpvZUzlFA4CyB1htQlzCKm44EFaRTz9/vmw7vlGXUvA==",
+  "dgSpecHash": "0tlClN0Hyp/uoF05ziI43zMeobNBPzdQOFFrWqKOd/OtJ1tPmlcQ1mqHHekkvUn7j2i3466fVzolx8E0nNRwqg==",
   "success": true,
   "projectFilePath": "C:\\My Workspace\\My\\Demo Code\\Dot-Net Core\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.2\\microsoft.visualstudio.web.codegeneration.3.1.2.nupkg.sha512",
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.2\\microsoft.visualstudio.web.codegeneration.contracts.3.1.2.nupkg.sha512",
     "C:\\Users\\amolkhai\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.2\\microsoft.visualstudio.web.codegeneration.core.3.1.2.nupkg.sha512",
